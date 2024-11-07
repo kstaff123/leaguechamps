@@ -1,0 +1,952 @@
+[
+    {
+        "name": "Aatrox",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg",
+        "description": "Aatrox, the Darkin Blade, is a fallen god-warrior who wields a massive sword to annihilate his foes."
+    },
+    {
+        "name": "Ahri",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ahri_0.jpg",
+        "description": "Ahri, the Nine-Tailed Fox, is a charming mage who uses her allure and magic to manipulate and damage enemies."
+    },
+    {
+        "name": "Akali",
+        "archetype": "Assassin",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Akali_0.jpg",
+        "description": "Akali, the Rogue Assassin, is a nimble fighter who strikes swiftly and disappears into the shadows."
+    },
+    {
+        "name": "Alistar",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Alistar_0.jpg",
+        "description": "Alistar, the Minotaur, is a mighty tank who uses his strength to protect allies and disrupt enemies."
+    },
+    {
+        "name": "Amumu",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_0.jpg",
+        "description": "Amumu, the Sad Mummy, is a melancholic tank who curses and entangles his foes."
+    },
+    {
+        "name": "Anivia",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Anivia_0.jpg",
+        "description": "Anivia, the Cryophoenix, is an ancient ice bird who controls the power of frost to hinder and damage enemies."
+    },
+    {
+        "name": "Annie",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Annie_0.jpg",
+        "description": "Annie, the Dark Child, is a young mage with pyromantic abilities and a fiery bear companion named Tibbers."
+    },
+    {
+        "name": "Aphelios",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aphelios_0.jpg",
+        "description": "Aphelios, the Weapon of the Faithful, is a marksman who wields an array of moonstone weapons."
+    },
+    {
+        "name": "Ashe",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ashe_0.jpg",
+        "description": "Ashe, the Frost Archer, is a skilled archer who commands ice to slow and damage her enemies."
+    },
+    {
+        "name": "Aurelion Sol",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/AurelionSol_0.jpg",
+        "description": "Aurelion Sol, the Star Forger, is a celestial dragon who creates and manipulates stars to devastate foes."
+    },
+    {
+        "name": "Azir",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Azir_0.jpg",
+        "description": "Azir, the Emperor of the Sands, is a resurrected ruler who commands sand soldiers to attack his enemies."
+    },
+    {
+        "name": "Bard",
+        "archetype": "Support",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Bard_0.jpg",
+        "description": "Bard, the Wandering Caretaker, is a cosmic guardian who uses mystical powers to aid allies and hinder foes."
+    },
+    {
+        "name": "Blitzcrank",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Blitzcrank_0.jpg",
+        "description": "Blitzcrank, the Great Steam Golem, is a mechanical behemoth known for his rocket grab and crowd control."
+    },
+    {
+        "name": "Brand",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Brand_0.jpg",
+        "description": "Brand, the Burning Vengeance, is a fire-wielding mage who engulfs his enemies in flames."
+    },
+    {
+        "name": "Braum",
+        "archetype": "Support",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Braum_0.jpg",
+        "description": "Braum, the Heart of the Freljord, is a jovial strongman who uses his shield to protect allies."
+    },
+    {
+        "name": "Caitlyn",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Caitlyn_0.jpg",
+        "description": "Caitlyn, the Sheriff of Piltover, is a sharpshooting marksman known for her precision and traps."
+    },
+    {
+        "name": "Camille",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Camille_0.jpg",
+        "description": "Camille, the Steel Shadow, is a deadly operative with hextech augmentations and sharp blades."
+    },
+    {
+        "name": "Cassiopeia",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Cassiopeia_0.jpg",
+        "description": "Cassiopeia, the Serpent's Embrace, is a venomous mage who petrifies and poisons her enemies"
+    },
+    {
+        "name": "Cho'Gath",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Chogath_0.jpg",
+        "description": "Cho'Gath, the Terror of the Void, is a massive creature who grows in size and power as he devours enemies."
+    },
+    {
+        "name": "Corki",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Corki_0.jpg",
+        "description": "Corki, the Daring Bombardier, is a Yordle pilot who flies a heavily-armed aircraft to engage his foes."
+    },
+    {
+        "name": "Darius",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Darius_0.jpg",
+        "description": "Darius, the Hand of Noxus, is a brutal warrior who wields a giant axe to execute his enemies."
+    },
+    {
+        "name": "Diana",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Diana_0.jpg",
+        "description": "Diana, Scorn of the Moon, is a lunar warrior who uses her crescent blade to strike swiftly in battle."
+    },
+    {
+        "name": "Dr. Mundo",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/DrMundo_0.jpg",
+        "description": "Dr. Mundo, the Madman of Zaun, is a chaotic, unkillable fighter who regenerates health rapidly."
+    },
+    {
+        "name": "Draven",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Draven_0.jpg",
+        "description": "Draven, the Glorious Executioner, is a flamboyant marksman who throws spinning axes to dominate opponents."
+    },
+    {
+        "name": "Ekko",
+        "archetype": "Assassin",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ekko_0.jpg",
+        "description": "Ekko, the Boy Who Shattered Time, is a prodigy who manipulates time to outmaneuver and strike his enemies."
+    },
+    {
+        "name": "Elise",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Elise_0.jpg",
+        "description": "Elise, the Spider Queen, is a dark sorceress who shifts between human and spider form to ensnare her prey."
+    },
+    {
+        "name": "Evelynn",
+        "archetype": "Assassin",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Evelynn_0.jpg",
+        "description": "Evelynn, Agony's Embrace, is a seductive assassin who stalks her prey and unleashes devastating magic."
+    },
+    {
+        "name": "Ezreal",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ezreal_0.jpg",
+        "description": "Ezreal, the Prodigal Explorer, is an adventurous marksman who fires mystical energy shots with pinpoint accuracy."
+    },
+    {
+        "name": "Fiddlesticks",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiddlesticks_0.jpg",
+        "description": "Fiddlesticks, the Ancient Fear, is a terrifying scarecrow who strikes fear into the hearts of his enemies."
+    },
+    {
+        "name": "Fiora",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fiora_0.jpg",
+        "description": "Fiora, the Grand Duelist, is a skilled sword fighter who excels in one-on-one combat with deadly precision."
+    },
+    {
+        "name": "Fizz",
+        "archetype": "Assassin",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Fizz_0.jpg",
+        "description": "Fizz, the Tidal Trickster, is a playful yet deadly aquatic assassin who summons creatures from the depths."
+    },
+    {
+        "name": "Galio",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Galio_0.jpg",
+        "description": "Galio, the Colossus, is a giant stone sentinel who protects allies by absorbing magical attacks."
+    },
+    {
+        "name": "Gangplank",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gangplank_0.jpg",
+        "description": "Gangplank, the Saltwater Scourge, is a pirate king who combines pistols, swords, and barrels of explosives."
+    },
+    {
+        "name": "Garen",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Garen_0.jpg",
+        "description": "Garen, the Might of Demacia, is a steadfast warrior who strikes fearlessly with his spinning sword."
+    },
+    {
+        "name": "Gnar",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gnar_0.jpg",
+        "description": "Gnar, the Missing Link, is a Yordle who transforms into a powerful beast when enraged."
+    },
+    {
+        "name": "Gragas",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gragas_0.jpg",
+        "description": "Gragas, the Rabble Rouser, is a jovial brawler who uses his body and barrels to wreak havoc on the battlefield."
+    },
+    {
+        "name": "Graves",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Graves_0.jpg",
+        "description": "Graves, the Outlaw, is a rugged marksman who wields a powerful shotgun and prefers close-range combat."
+    },
+    {
+        "name": "Gwen",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Gwen_0.jpg",
+        "description": "Gwen, the Hallowed Seamstress, is a magical doll who wields giant scissors to carve through enemies."
+    },
+    {
+        "name": "Hecarim",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Hecarim_0.jpg",
+        "description": "Hecarim, the Shadow of War, is a spectral centaur who charges into battle with unstoppable force."
+    },
+    {
+        "name": "Heimerdinger",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Heimerdinger_0.jpg",
+        "description": "Heimerdinger, the Revered Inventor, is a Yordle genius who builds turrets and contraptions to control fights."
+    },
+    {
+        "name": "Illaoi",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Illaoi_0.jpg",
+        "description": "Illaoi, the Kraken Priestess, is a powerful brawler who summons tentacles to pummel her enemies."
+    },
+    {
+        "name": "Irelia",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_0.jpg",
+        "description": "Irelia, the Blade Dancer, is a nimble warrior who controls blades with precise movements."
+    },
+    {
+        "name": "Ivern",
+        "archetype": "Support",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ivern_0.jpg",
+        "description": "Ivern, the Green Father, is a gentle forest guardian who aids allies and befriends jungle creatures."
+    },
+    {
+        "name": "Janna",
+        "archetype": "Support",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Janna_0.jpg",
+        "description": "Janna, the Storm's Fury, is a wind goddess who protects and empowers allies with healing and shields."
+    },
+    {
+        "name": "Jarvan IV",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/JarvanIV_0.jpg",
+        "description": "Jarvan IV, the Exemplar of Demacia, is a noble warrior who commands the battlefield with his lance."
+    },
+    {
+        "name": "Jax",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jax_0.jpg",
+        "description": "Jax, Grandmaster at Arms, is a skilled warrior who fights with unorthodox weapons and unmatched agility."
+    },
+    {
+        "name": "Jayce",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jayce_0.jpg",
+        "description": "Jayce, the Defender of Tomorrow, is a tech-savvy warrior who can switch between ranged and melee combat."
+    },
+    {
+        "name": "Jhin",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jhin_0.jpg",
+        "description": "Jhin, the Virtuoso, is a meticulous marksman who crafts each shot as a deadly work of art."
+    },
+    {
+        "name": "Jinx",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Jinx_0.jpg",
+        "description": "Jinx, the Loose Cannon, is a manic marksman who revels in chaos, armed with a vast arsenal of explosive weapons."
+    },
+    {
+        "name": "Kai'Sa",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kaisa_0.jpg",
+        "description": "Kai'Sa, Daughter of the Void, is a skilled fighter who harnesses void energy to survive and thrive."
+    },
+    {
+        "name": "Kalista",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kalista_0.jpg",
+        "description": "Kalista, the Spear of Vengeance, is a spectral huntress bound to serve those wronged, wielding her ghostly spears."
+    },
+    {
+        "name": "Karma",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karma_0.jpg",
+        "description": "Karma, the Enlightened One, is a powerful spirit guide who balances aggression and support in combat."
+    },
+    {
+        "name": "Karthus",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Karthus_0.jpg",
+        "description": "Karthus, the Deathsinger, is a haunting mage who uses necromantic power to destroy his enemies from beyond."
+    },
+    {
+        "name": "Kassadin",
+        "archetype": "Assassin",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kassadin_0.jpg",
+        "description": "Kassadin, the Void Walker, is a mysterious figure who harnesses void energy to counter mages and blink through fights."
+    },
+    {
+        "name": "Katarina",
+        "archetype": "Assassin",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Katarina_0.jpg",
+        "description": "Katarina, the Sinister Blade, is a swift assassin who unleashes a storm of daggers upon her enemies."
+    },
+    {
+        "name": "Kayle",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayle_0.jpg",
+        "description": "Kayle, the Righteous, is a celestial warrior who ascends to greatness, raining down holy justice on her foes."
+    },
+    {
+        "name": "Kayn",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kayn_0.jpg",
+        "description": "Kayn, the Shadow Reaper, is a scythe-wielding warrior who chooses between shadow and darkin powers."
+    },
+    {
+        "name": "Kennen",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kennen_0.jpg",
+        "description": "Kennen, the Heart of the Tempest, is a ninja Yordle who commands lightning to stun and strike his enemies."
+    },
+    {
+        "name": "Kha'Zix",
+        "archetype": "Assassin",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Khazix_0.jpg",
+        "description": "Kha'Zix, the Voidreaver, is an evolving predator who thrives in isolation, preying on the unsuspecting."
+    },
+    {
+        "name": "Kindred",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kindred_0.jpg",
+        "description": "Kindred, the Eternal Hunters, represent death itself, embodying both the Lamb and the Wolf."
+    },
+    {
+        "name": "Kled",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Kled_0.jpg",
+        "description": "Kled, the Cantankerous Cavalier, is a loud-mouthed Noxian warrior who rides his trusty mount, Skaarl."
+    },
+    {
+        "name": "Kog'Maw",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/KogMaw_0.jpg",
+        "description": "Kog'Maw, the Mouth of the Abyss, is a ravenous void creature who spits corrosive acid at his foes."
+    },
+    {
+        "name": "LeBlanc",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leblanc_0.jpg",
+        "description": "LeBlanc, the Deceiver, is a master illusionist who manipulates reality to bewilder and harm her enemies."
+    },
+    {
+        "name": "Lee Sin",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/LeeSin_0.jpg",
+        "description": "Lee Sin, the Blind Monk, is a martial artist who uses his senses to perform precise, devastating attacks."
+    },
+    {
+        "name": "Leona",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Leona_0.jpg",
+        "description": "Leona, the Radiant Dawn, is a sun warrior who protects her allies with her shield and sunlight-based abilities."
+    },
+    {
+        "name": "Lillia",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lillia_0.jpg",
+        "description": "Lillia, the Bashful Bloom, is a magical fawn who uses her nature powers to spread dreams and protect the forest."
+    },
+    {
+        "name": "Lissandra",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lissandra_0.jpg",
+        "description": "Lissandra, the Ice Witch, commands the powers of frost to freeze and shatter her foes."
+    },
+    {
+        "name": "Lucian",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lucian_0.jpg",
+        "description": "Lucian, the Purifier, is a vengeful marksman who wields twin pistols to hunt down dark forces."
+    },
+    {
+        "name": "Lulu",
+        "archetype": "Support",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lulu_0.jpg",
+        "description": "Lulu, the Fae Sorceress, is a whimsical Yordle who uses her magic to transform allies and disrupt enemies."
+    },
+    {
+        "name": "Lux",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Lux_0.jpg",
+        "description": "Lux, the Lady of Luminosity, is a light mage who dazzles and damages enemies with radiant spells."
+    },
+    {
+        "name": "Malphite",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malphite_0.jpg",
+        "description": "Malphite, Shard of the Monolith, is a massive stone creature who uses brute force to crush his enemies."
+    },
+    {
+        "name": "Malzahar",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_0.jpg",
+        "description": "Malzahar, the Prophet of the Void, summons voidlings and powerful spells to control the battlefield."
+    },
+    {
+        "name": "Maokai",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Maokai_0.jpg",
+        "description": "Maokai, the Twisted Treant, is a tree spirit who protects nature by trapping and controlling his enemies."
+    },
+    {
+        "name": "Master Yi",
+        "archetype": "Assassin",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MasterYi_0.jpg",
+        "description": "Master Yi, the Wuju Bladesman, is a master swordsman who moves with blinding speed to cut down his foes."
+    },
+    {
+        "name": "Miss Fortune",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/MissFortune_0.jpg",
+        "description": "Miss Fortune, the Bounty Hunter, is a pirate marksman who uses her pistols to deal heavy area damage."
+    },
+    {
+        "name": "Mordekaiser",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_0.jpg",
+        "description": "Mordekaiser, the Iron Revenant, is a fearsome necromancer who commands the dead and wields heavy armor."
+    },
+    {
+        "name": "Morgana",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Morgana_0.jpg",
+        "description": "Morgana, the Fallen, is a dark sorceress who binds and punishes enemies with dark magic."
+    },
+    {
+        "name": "Nami",
+        "archetype": "Support",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nami_0.jpg",
+        "description": "Nami, the Tidecaller, is an aquatic mage who supports allies with healing and control spells."
+    },
+    {
+        "name": "Nasus",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nasus_0.jpg",
+        "description": "Nasus, the Curator of the Sands, is an ancient guardian with immense power that grows over time."
+    },
+    {
+        "name": "Nautilus",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nautilus_0.jpg",
+        "description": "Nautilus, the Titan of the Depths, is a hulking tank who anchors enemies and controls the battlefield."
+    },
+    {
+        "name": "Neeko",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_0.jpg",
+        "description": "Neeko, the Curious Chameleon, is a shape-shifting mage who tricks and deceives her opponents."
+    },
+    {
+        "name": "Nidalee",
+        "archetype": "Assassin",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nidalee_0.jpg",
+        "description": "Nidalee, the Bestial Huntress, is a shapeshifter who alternates between human and cougar forms."
+    },
+    {
+        "name": "Nilah",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nilah_0.jpg",
+        "description": "Nilah, the Joy Unbound, is a fierce fighter with a mastery over water, channeling its power in combat."
+    },
+    {
+        "name": "Nocturne",
+        "archetype": "Assassin",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nocturne_0.jpg",
+        "description": "Nocturne, the Eternal Nightmare, is a dark figure that strikes fear into his enemies, bringing shadow and terror."
+    },
+    {
+        "name": "Nunu & Willump",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Nunu_0.jpg",
+        "description": "Nunu and Willump, the Boy and His Yeti, are an adventurous duo who conquer the Freljord with teamwork and magic."
+    },
+    {
+        "name": "Olaf",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Olaf_0.jpg",
+        "description": "Olaf, the Berserker, is a powerful warrior who grows stronger the closer he gets to death."
+    },
+    {
+        "name": "Orianna",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Orianna_0.jpg",
+        "description": "Orianna, the Lady of Clockwork, controls a magical orb to protect and devastate from a distance."
+    },
+    {
+        "name": "Ornn",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ornn_0.jpg",
+        "description": "Ornn, the Fire Below the Mountain, is a demigod blacksmith who crafts items and controls fire to battle foes."
+    },
+    {
+        "name": "Pantheon",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg",
+        "description": "Pantheon, the Unbreakable Spear, is a fearless warrior who hurls his spear and leaps into battle with godlike might."
+    },
+    {
+        "name": "Poppy",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Poppy_0.jpg",
+        "description": "Poppy, Keeper of the Hammer, is a small but mighty Yordle who wields a giant hammer to defend justice."
+    },
+    {
+        "name": "Pyke",
+        "archetype": "Assassin",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pyke_0.jpg",
+        "description": "Pyke, the Bloodharbor Ripper, is a deadly underwater assassin who emerges to take revenge on those who wronged him."
+    },
+    {
+        "name": "Qiyana",
+        "archetype": "Assassin",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Qiyana_0.jpg",
+        "description": "Qiyana, Empress of the Elements, is a ruthless royalty who manipulates her environment to deadly effect."
+    },
+    {
+        "name": "Quinn",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Quinn_0.jpg",
+        "description": "Quinn, Demacia's Wings, is a skilled ranger who fights alongside her loyal hawk, Valor, to defeat enemies."
+    },
+    {
+        "name": "Rakan",
+        "archetype": "Support",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rakan_0.jpg",
+        "description": "Rakan, the Charmer, is a nimble support who uses charm and acrobatics to protect allies and control foes."
+    },
+    {
+        "name": "Rammus",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rammus_0.jpg",
+        "description": "Rammus, the Armordillo, is a mysterious armored creature who rolls into battle with unmatched resilience."
+    },
+    {
+        "name": "Rek'Sai",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/RekSai_0.jpg",
+        "description": "Rek'Sai, the Void Burrower, is a predatory void creature who tunnels underground to ambush her enemies."
+    },
+    {
+        "name": "Rell",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rell_0.jpg",
+        "description": "Rell, the Iron Maiden, is a powerful metal manipulator who uses her armor to control and disable enemies."
+    },
+    {
+        "name": "Renekton",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Renekton_0.jpg",
+        "description": "Renekton, the Butcher of the Sands, is a wrathful warrior who wields a massive blade and thrives in close combat."
+    },
+    {
+        "name": "Rengar",
+        "archetype": "Assassin",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rengar_0.jpg",
+        "description": "Rengar, the Pridestalker, is a ruthless predator who stalks his prey from the shadows and strikes with deadly precision."
+    },
+    {
+        "name": "Riven",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_0.jpg",
+        "description": "Riven, the Exile, is a master swordswoman who fights with broken blades and unmatched speed and agility."
+    },
+    {
+        "name": "Rumble",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rumble_0.jpg",
+        "description": "Rumble, the Mechanized Menace, is a Yordle engineer who pilots a powerful mech to burn down his enemies."
+    },
+    {
+        "name": "Ryze",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ryze_0.jpg",
+        "description": "Ryze, the Rune Mage, is a master of arcane power who wields ancient runes to reshape reality."
+    },
+    {
+        "name": "Samira",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Samira_0.jpg",
+        "description": "Samira, the Desert Rose, is a stylish gunner who combines ranged and melee attacks to devastate her foes."
+    },
+    {
+        "name": "Sejuani",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sejuani_0.jpg",
+        "description": "Sejuani, Fury of the North, is a ferocious warrior who rides a giant boar and uses ice to subdue her enemies."
+    },
+    {
+        "name": "Senna",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_0.jpg",
+        "description": "Senna, the Redeemer, is a spectral marksman who fights the Mist and brings light to those in darkness."
+    },
+    {
+        "name": "Seraphine",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Seraphine_0.jpg",
+        "description": "Seraphine, the Starry-Eyed Songstress, is a pop star who inspires and empowers her allies through music."
+    },
+    {
+        "name": "Sett",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_0.jpg",
+        "description": "Sett, the Boss, is a powerful brawler who thrives in close combat, delivering crushing punches and throws."
+    },
+    {
+        "name": "Shaco",
+        "archetype": "Assassin",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shaco_0.jpg",
+        "description": "Shaco, the Demon Jester, is a twisted assassin who uses stealth and traps to ambush and terrorize his foes."
+    },
+    {
+        "name": "Shen",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_0.jpg",
+        "description": "Shen, the Eye of Twilight, is a stoic warrior who uses his spirit blade to shield and protect his allies."
+    },
+    {
+        "name": "Shyvana",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shyvana_0.jpg",
+        "description": "Shyvana, the Half-Dragon, is a fierce warrior who transforms into a dragon to unleash fiery devastation."
+    },
+    {
+        "name": "Singed",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Singed_0.jpg",
+        "description": "Singed, the Mad Chemist, is a crazed scientist who uses poisonous gas to hinder and harm his enemies."
+    },
+    {
+        "name": "Sion",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sion_0.jpg",
+        "description": "Sion, the Undead Juggernaut, is a hulking, undead warrior who charges fearlessly into the fray."
+    },
+    {
+        "name": "Sivir",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sivir_0.jpg",
+        "description": "Sivir, the Battle Mistress, is a skilled mercenary who wields a deadly boomerang blade in battle."
+    },
+    {
+        "name": "Skarner",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Skarner_0.jpg",
+        "description": "Skarner, the Crystal Vanguard, is a noble creature from the Shuriman desert who uses crystal spires for power."
+    },
+    {
+        "name": "Sona",
+        "archetype": "Support",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sona_0.jpg",
+        "description": "Sona, Maven of the Strings, is a musician who uses harmonious melodies to heal and enhance allies."
+    },
+    {
+        "name": "Soraka",
+        "archetype": "Support",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Soraka_0.jpg",
+        "description": "Soraka, the Starchild, is a celestial healer who sacrifices her health to save her allies."
+    },
+    {
+        "name": "Swain",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Swain_0.jpg",
+        "description": "Swain, the Noxian Grand General, is a powerful strategist who uses dark magic to control the battlefield."
+    },
+    {
+        "name": "Sylas",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sylas_0.jpg",
+        "description": "Sylas, the Unshackled, is a revolutionary mage who steals his enemies' powers to fuel his rebellion."
+    },
+    {
+        "name": "Syndra",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Syndra_0.jpg",
+        "description": "Syndra, the Dark Sovereign, is a powerful mage who manipulates spheres of dark energy to devastate her foes."
+    },
+    {
+        "name": "Tahm Kench",
+        "archetype": "Support",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TahmKench_0.jpg",
+        "description": "Tahm Kench, the River King, is a monstrous figure who devours his enemies and protects his allies."
+    },
+    {
+        "name": "Taliyah",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taliyah_0.jpg",
+        "description": "Taliyah, the Stoneweaver, is a young mage who commands the earth to reshape the battlefield."
+    },
+    {
+        "name": "Talon",
+        "archetype": "Assassin",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Talon_0.jpg",
+        "description": "Talon, the Blade's Shadow, is a master assassin who strikes from the shadows with deadly precision."
+    },
+    {
+        "name": "Taric",
+        "archetype": "Support",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Taric_0.jpg",
+        "description": "Taric, the Shield of Valoran, is a celestial protector who uses the power of the stars to shield his allies."
+    },
+    {
+        "name": "Teemo",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Teemo_0.jpg",
+        "description": "Teemo, the Swift Scout, is a Yordle marksman who uses stealth and traps to surprise his enemies."
+    },
+    {
+        "name": "Thresh",
+        "archetype": "Support",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg",
+        "description": "Thresh, the Chain Warden, is a spectral jailer who uses his chains to control and capture his enemies."
+    },
+    {
+        "name": "Tristana",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tristana_0.jpg",
+        "description": "Tristana, the Yordle Gunner, is a cheerful marksman who wields a powerful cannon to blast her foes."
+    },
+    {
+        "name": "Trundle",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Trundle_0.jpg",
+        "description": "Trundle, the Troll King, is a towering troll who smashes his foes with icy clubs and drains their defenses."
+    },
+    {
+        "name": "Tryndamere",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Tryndamere_0.jpg",
+        "description": "Tryndamere, the Barbarian King, is a fearsome warrior who becomes more deadly as his rage builds."
+    },
+    {
+        "name": "Twisted Fate",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_0.jpg",
+        "description": "Twisted Fate, the Card Master, is a gambler and sorcerer who uses enchanted cards to control the battlefield."
+    },
+    {
+        "name": "Twitch",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Twitch_0.jpg",
+        "description": "Twitch, the Plague Rat, is a sneaky marksman who spreads disease and chaos wherever he goes."
+    },
+    {
+        "name": "Udyr",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Udyr_0.jpg",
+        "description": "Udyr, the Spirit Walker, is a warrior who channels animal spirits to empower his attacks."
+    },
+    {
+        "name": "Urgot",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Urgot_0.jpg",
+        "description": "Urgot, the Dreadnought, is a terrifying amalgamation of flesh and metal who shreds enemies with his machine parts."
+    },
+    {
+        "name": "Varus",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Varus_0.jpg",
+        "description": "Varus, the Arrow of Retribution, is a corrupted archer who channels dark magic through his bow."
+    },
+    {
+        "name": "Vayne",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_0.jpg",
+        "description": "Vayne, the Night Hunter, is a relentless marksman who hunts down the unnatural with her crossbow."
+    },
+    {
+        "name": "Veigar",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Veigar_0.jpg",
+        "description": "Veigar, the Tiny Master of Evil, is a small yet powerful mage who revels in dark magic."
+    },
+    {
+        "name": "Vel'Koz",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Velkoz_0.jpg",
+        "description": "Vel'Koz, the Eye of the Void, is a curious creature from the void who dissects and studies his enemies."
+    },
+    {
+        "name": "Vex",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vex_0.jpg",
+        "description": "Vex, the Gloomist, is a melancholy Yordle mage who uses shadows to disrupt and demoralize her enemies."
+    },
+    {
+        "name": "Vi",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vi_0.jpg",
+        "description": "Vi, the Piltover Enforcer, is a tough brawler who uses massive gauntlets to deliver punishing blows."
+    },
+    {
+        "name": "Viego",
+        "archetype": "Assassin",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viego_0.jpg",
+        "description": "Viego, the Ruined King, is a spectral warrior who takes control of fallen enemies to fight in their place."
+    },
+    {
+        "name": "Viktor",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Viktor_0.jpg",
+        "description": "Viktor, the Machine Herald, is a scientist who augments himself with technology to achieve perfection."
+    },
+    {
+        "name": "Vladimir",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vladimir_0.jpg",
+        "description": "Vladimir, the Crimson Reaper, is a powerful mage who drains the life force from his enemies to sustain himself."
+    },
+    {
+        "name": "Volibear",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Volibear_0.jpg",
+        "description": "Volibear, the Relentless Storm, is a demigod bear who commands the power of thunder to crush his enemies."
+    },
+    {
+        "name": "Warwick",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Warwick_0.jpg",
+        "description": "Warwick, the Uncaged Wrath of Zaun, is a fearsome beast with a taste for blood and relentless tracking abilities."
+    },
+    {
+        "name": "Wukong",
+        "archetype": "Fighter",
+        "splash_art": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/769013a96f93d25ba79f5c9c9c2ee2caf7160a04-496x560.jpg?auto=format&fit=fill&q=80&w=352",
+        "description": "Wukong, the Monkey King, is a cunning fighter who uses trickery and a staff to outmaneuver his opponents."
+    },
+    {
+        "name": "Xayah",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xayah_0.jpg",
+        "description": "Xayah, the Rebel, is a deadly marksman who uses feathered blades to strike and outplay her foes."
+    },
+    {
+        "name": "Xerath",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Xerath_0.jpg",
+        "description": "Xerath, the Magus Ascendant, is a powerful being of arcane energy who unleashes destructive spells from afar."
+    },
+    {
+        "name": "Xin Zhao",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/XinZhao_0.jpg",
+        "description": "Xin Zhao, the Seneschal of Demacia, is a loyal warrior who excels in close-range combat with his spear."
+    },
+    {
+        "name": "Yasuo",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg",
+        "description": "Yasuo, the Unforgiven, is a master swordsman who wields the wind to dash through and strike down enemies."
+    },
+    {
+        "name": "Yone",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yone_0.jpg",
+        "description": "Yone, the Unforgotten, is a dual-wielding warrior who has returned from the spirit world to seek redemption."
+    },
+    {
+        "name": "Yorick",
+        "archetype": "Fighter",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yorick_0.jpg",
+        "description": "Yorick, Shepherd of Souls, is a spectral gravekeeper who summons the dead to aid him in battle."
+    },
+    {
+        "name": "Yuumi",
+        "archetype": "Support",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yuumi_0.jpg",
+        "description": "Yuumi, the Magical Cat, is a playful support who attaches to allies, shielding and healing them from safety."
+    },
+    {
+        "name": "Zac",
+        "archetype": "Tank",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zac_0.jpg",
+        "description": "Zac, the Secret Weapon, is an elastic creature who bounces around the battlefield, disrupting foes."
+    },
+    {
+        "name": "Zed",
+        "archetype": "Assassin",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_0.jpg",
+        "description": "Zed, the Master of Shadows, is a deadly assassin who manipulates shadows to strike and evade his enemies."
+    },
+    {
+        "name": "Zeri",
+        "archetype": "Marksman",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zeri_0.jpg",
+        "description": "Zeri, the Spark of Zaun, is a lightning-charged marksman who zips around the battlefield, firing electrified shots."
+    },
+    {
+        "name": "Ziggs",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Ziggs_0.jpg",
+        "description": "Ziggs, the Hexplosives Expert, is a Yordle bomb maker who uses explosives to create chaos on the battlefield."
+    },
+    {
+        "name": "Zilean",
+        "archetype": "Support",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zilean_0.jpg",
+        "description": "Zilean, the Chronokeeper, is a wise mage who bends time to protect allies and disrupt enemies."
+    },
+    {
+        "name": "Zoe",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_0.jpg",
+        "description": "Zoe, the Aspect of Twilight, is a mischievous celestial who uses portals and spells to confound her foes."
+    },
+    {
+        "name": "Zyra",
+        "archetype": "Mage",
+        "splash_art": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zyra_0.jpg",
+        "description": "Zyra, Rise of the Thorns, is a dangerous plant mage who summons deadly flora to ensnare and harm her enemies."
+    }
+]
+
+ 
